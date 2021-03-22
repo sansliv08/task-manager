@@ -1,5 +1,5 @@
 # Task Manager
-The backend of this project was developed with [laraverl](https://laravel.com/) and SQL. It has the following features:
+The backend of this project was developed with [laravel](https://laravel.com/) and SQL. It has the following features:
 - User authentication
 - Create new todo, edit and delete
 - Create new category, edit and delete
